@@ -1,0 +1,13 @@
+streamlit
+numpy
+plotly
+langchain-openai
+langgraph
+python-dotenv
+typing-extensions
+google-generativeai
+langchain-google-genai
+transformers
+torch
+letta
+requests
